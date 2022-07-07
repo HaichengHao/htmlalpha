@@ -5,7 +5,7 @@
 > > -  ** study and always study **    
   
 ## please check the bottom table  
-
+>   
 | do this | don't do this|    
 | :---- | :----:| ----: |   
 | STUDY :blush: |  lazy :shit: |  
